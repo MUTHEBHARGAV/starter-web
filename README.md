@@ -7,7 +7,7 @@ This is the Basic introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos there may be alot to learn.
 
 ## Deployment 
 the Deployment section is This.
