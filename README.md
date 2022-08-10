@@ -13,7 +13,7 @@ Sample website with plenty of files for demos there may be alot to learn.
 the Deployment section is This.
 
 ##Copyright notice
-this is copyright belong to M Bhargav
+this is copyright belong to M Bhargav.
 
 ## Conclusion
 This is to Thank you all in the section.
