@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    M Bhargav muthebhargav@gmail.com
 
 # THANKS
 
