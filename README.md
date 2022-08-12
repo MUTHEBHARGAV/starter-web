@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 # Introduction
-This is the Basic introduction
+This is the Basic introduction i just make in rebase
+
 
 ## Purpose
 
